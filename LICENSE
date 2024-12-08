@@ -1,201 +1,208 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>99 Имен Аллаха</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5em;
+            color: #007BFF;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 2em;
+            color: #28a745;
+            margin-top: 20px;
+        }
+        .welcome {
+            margin-bottom: 20px;
+            font-size: 1.2em;
+            color: #333;
+        }
+        .hadith {
+            margin: 20px 0;
+            font-size: 1em;
+            font-style: italic;
+            color: #555;
+        }
+        .name {
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            margin: 10px 0;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s;
+        }
+        .name:hover {
+            transform: scale(1.05);
+        }
+        .crescent {
+            width: 50px;
+            height: 50px;
+            background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Crescent_Moon_Icon.svg/1024px-Crescent_Moon_Icon.svg.png') no-repeat center center;
+            background-size: contain;
+            display: inline-block;
+        }
+        .quran {
+            width: 100px;
+            height: auto;
+            margin: 20px 0;
+        }
+        .footer {
+            margin-top: 40px;
+            font-size: 1.2em;
+            color: #333;
+        }
+        .dua {
+            font-size: 1.5em;
+            color: #d9534f;
+            margin-top: 20px;
+        }
+        .name-list {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .name-item {
+            flex: 1 1 30%;
+            margin: 10px;
+            padding: 15px;
+            background: #e7f3fe;
+            border: 1px solid #bce0fd;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="crescent"></div>
+    <h1>Ассаляму алайкум (السلام عليكم)</h1>
+    <div class="crescent"></div>
+    <h2>Добро пожаловать на сайт 99 имен Аллаха</h2>
+    <div class="welcome">Здесь вы можете узнать о 99 именах Аллаха и выучить их!</div>
+    <div class="hadith">
+        <strong>Хадис:</strong> «Тот, кто выучит 99 имен Аллаха, войдет в рай» (Сахих аль-Бухари, книга 73, хадис 33). 
+        <br><a href="https://sunnah.com/bukhari/73/33" target="_blank">Ссылка на источник</a>
+    </div>
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+    <h2>99 Имен Аллаха (Асма аль-Хусна)</h2>
 
-   1. Definitions.
+    <div class="name-list">
+        <div class="name-item"><h3>1. Ар-Рахман (الرحمن)</h3><p>Милостивый.</p></div>
+        <div class="name-item"><h3>2. Ар-Рахим (الرحيم)</h3><p>Милосердный.</p></div>
+        <div class="name-item"><h3>3. Аль-Малик (الملك)</h3><p>Царь.</p></div>
+        <div class="name-item"><h3>4. Аль-Куддус (القدوس)</h3><p>Святой.</p></div>
+        <div class="name-item"><h3>5. Ас-Салям (السلام)</h3><p>Мир.</p></div>
+        <div class="name-item"><h3>6. Аль-Мумин (المؤمن)</h3><p>Верующий.</p></div>
+        <div class="name-item"><h3>7. Аль-Хай (الحي)</h3><p>Живой.</p></div>
+        <div class="name-item"><h3>8. Аль-Хайю (القيوم)</h3><p>Вечный.</p></div>
+        <div class="name-item"><h3>9. Аль-Вадуд (الودود)</h3><p>Любящий.</p></div>
+        <div class="name-item"><h3>10. Аль-Маджид (المجيد)</h3><p>Славный.</p></div>
+        <div class="name-item"><h3>11. Аль-Баис (الباعث)</h3><p>Воскрешающий.</p></div>
+        <div class="name-item"><h3>12. Аш-Шахид (الشهيد)</h3><p>Свидетель.</p></div>
+        <div class="name-item"><h3>13. Аль-Хакк (الحق)</h3><p>Истина.</p></div>
+        <div class="name-item"><h3>14. Аль-Вакиль (الوكيل)</h3><p>Покровитель.</p></div>
+        <div class="name-item"><h3>15. Аль-Кави (القوي)</h3><p>Сильный.</p></div>
+        <div class="name-item"><h3>16. Аль-Матин (المتين)</h3><p>Устойчивый.</p></div>
+        <div class="name-item"><h3>17. Аль-Валий (الولي)</h3><p>Покровитель.</p></div>
+        <div class="name-item"><h3>18. Аль-Хамид (الحميد)</h3><p>Хвалимый.</p></div>
+        <div class="name-item"><h3>19. Аль-Мухси (المحصي)</h3><p>Считывающий.</p></div>
+        <div class="name-item"><h3>20. Аль-Мубин (المبين)</h3><p>Ясный.</p></div>
+        <div class="name-item"><h3>21. Аль-Хафиз (الحفيظ)</h3><p>Сохраняющий.</p></div>
+        <div class="name-item"><h3>22. Аль-Халид (الخالد)</h3><p>Вечный.</p></div>
+        <div class="name-item"><h3>23. Аль-Рашид (الرشيد)</h3><p>Наставляющий.</p></div>
+        <div class="name-item"><h3>24. Аль-Сабур (الصبور)</h3><p>Терпеливый.</p></div>
+        <div class="name-item"><h3>25. Аль-Азиз (العزيز)</h3><p>Могущественный.</p></div>
+        <div class="name-item"><h3>26. Аль-Джаббар (الجبار)</h3><p>Всевышний.</p></div>
+        <div class="name-item"><h3>27. Аль-Мутаккабир (المتكبر)</h3><p>Великий.</p></div>
+        <div class="name-item"><h3>28. Аль-Халик (الخالق)</h3><p>Творец.</p></div>
+        <div class="name-item"><h3>29. Аль-Бари (البارئ)</h3><p>Создатель.</p></div>
+        <div class="name-item"><h3>30. Аль-Мусаввир (المصور)</h3><p>Формирующий.</p></div>
+        <div class="name-item"><h3>31. Аль-Гаффар (الغفار)</h3><p>Прощающий.</p></div>
+        <div class="name-item"><h3>32. Аль-Каххар (القهار)</h3><p>Подавляющий.</p></div>
+        <div class="name-item"><h3>33. Аль-Ваххаб (الوهاب)</h3><p>Дарующий.</p></div>
+        <div class="name-item"><h3>34. Ар-Раззак (الرزاق)</h3><p>Питатель.</p></div>
+        <div class="name-item"><h3>35. Аль-Фаттах (الفتاح)</h3><p>Открывающий.</p></div>
+        <div class="name-item"><h3>36. Аль-Аллим (العليم)</h3><p>Всезнающий.</p></div>
+        <div class="name-item"><h3>37. Аль-Кабид (القابض)</h3><p>Сжимающий.</p></div>
+        <div class="name-item"><h3>38. Аль-Басит (الباسط)</h3><p>Расширяющий.</p></div>
+        <div class="name-item"><h3>39. Аль-Хафид (الخافض)</h3><p>Унижающий.</p></div>
+        <div class="name-item"><h3>40. Аль-Рафи (الرافع)</h3><p>Возвышающий.</p></div>
+        <div class="name-item"><h3>41. Аль-Муиз (المعز)</h3><p>Укрепляющий.</p></div>
+        <div class="name-item"><h3>42. Аль-Залил (المذل)</h3><p>Уничижающий.</p></div>
+        <div class="name-item"><h3>43. Ас-Сами (السميع)</h3><p>Слышащий.</p></div>
+        <div class="name-item"><h3>44. Аль-Басир (البصير)</h3><p>Видящий.</p></div>
+        <div class="name-item"><h3>45. Аль-Хakam (الحكم)</h3><p>Судья.</p></div>
+        <div class="name-item"><h3>46. Аль-Адль (العادل)</h3><p>Справедливый.</p></div>
+        <div class="name-item"><h3>47. Аль-Латиф (اللطيف)</h3><p>Нежный.</p></div>
+        <div class="name-item"><h3>48. Аль-Хабир (الخبير)</h3><p>Знающий.</p></div>
+        <div class="name-item"><h3>49. Аль-Халим (الحليم)</h3><p>Милосердный.</p></div>
+        <div class="name-item"><h3>50. Аль-Азим (العظيم)</h3><p>Великий.</p></div>
+        <div class="name-item"><h3>51. Аль-Гафур (الغفور)</h3><p>Прощающий.</p></div>
+        <div class="name-item"><h3>52. Аш-Шукур (الشكور)</h3><p>Благодарный.</p></div>
+        <div class="name-item"><h3>53. Аль-Кабир (الكبير)</h3><p>Великий.</p></div>
+        <div class="name-item"><h3>54. Аль-Хафиз (الحفيظ)</h3><p>Сохраняющий.</p></div>
+        <div class="name-item"><h3>55. Аль-Мукийт (المقيت)</h3><p>Питатель.</p></div>
+        <div class="name-item"><h3>56. Аль-Хасиб (الحسيب)</h3><p>Достаточный.</p></div>
+        <div class="name-item"><h3>57. Аль-Джали (الجليل)</h3><p>Величественный.</p></div>
+        <div class="name-item"><h3>58. Аль-Карим (الكريم)</h3><p>Щедрый.</p></div>
+        <div class="name-item"><h3>59. Ар-Ракиб (الرقيب)</h3><p>Наблюдающий.</p></div>
+        <div class="name-item"><h3>60. Аль-Муджиб (المجيب)</h3><p>Отвечающий.</p></div>
+        <div class="name-item"><h3>61. Аль-Удуд (الودود)</h3><p>Любящий.</p></div>
+        <div class="name-item"><h3>62. Аль-Матин (المتين)</h3><p>Крепкий.</p></div>
+        <div class="name-item"><h3>63. Аль-Валий (الولي)</h3><p>Покровитель.</p></div>
+        <div class="name-item"><h3>64. Аль-Хамид (الحميد)</h3><p>Хвалимый.</p></div>
+        <div class="name-item"><h3>65. Аль-Мухси (المحصي)</h3><p>Считывающий.</p></div>
+        <div class="name-item"><h3>66. Аль-Мубин (المبين)</h3><p>Ясный.</p></div>
+        <div class="name-item"><h3>67. Аль-Хафиз (الحفيظ)</h3><p>Сохраняющий.</p></div>
+        <div class="name-item"><h3>68. Аль-Халид (الخالد)</h3><p>Вечный.</p></div>
+        <div class="name-item"><h3>69. Аль-Рашид (الرشيد)</h3><p>Наставляющий.</p></div>
+        <div class="name-item"><h3>70. Аль-Сабур (الصبور)</h3><p>Терпеливый.</p></div>
+        <div class="name-item"><h3>71. Аль-Азиз (العزيز)</h3><p>Могущественный.</p></div>
+        <div class="name-item"><h3>72. Аль-Джаббар (الجبار)</h3><p>Всевышний.</p></div>
+        <div class="name-item"><h3>73. Аль-Мутаккабир (المتكبر)</h3><p>Великий.</p></div>
+        <div class="name-item"><h3>74. Аль-Халик (الخالق)</h3><p>Творец.</p></div>
+        <div class="name-item"><h3>75. Аль-Бари (البارئ)</h3><p>Создатель.</p></div>
+        <div class="name-item"><h3>76. Аль-Мусаввир (المصور)</h3><p>Формирующий.</p></div>
+        <div class="name-item"><h3>77. Аль-Гаффар (الغفار)</h3><p>Прощающий.</p></div>
+        <div class="name-item"><h3>78. Аль-Каххар (القهار)</h3><p>Подавляющий.</p></div>
+        <div class="name-item"><h3>79. Аль-Ваххаб (الوهاب)</h3><p>Дарующий.</p></div>
+        <div class="name-item"><h3>80. Ар-Раззак (الرزاق)</h3><p>Питатель.</p></div>
+        <div class="name-item"><h3>81. Аль-Фаттах (الفتاح)</h3><p>Открывающий.</p></div>
+        <div class="name-item"><h3>82. Аль-Аллим (العليم)</h3><p>Всезнающий.</p></div>
+        <div class="name-item"><h3>83. Аль-Кабид (القابض)</h3><p>Сжимающий.</p></div>
+        <div class="name-item"><h3>84. Аль-Басит (الباسط)</h3><p>Расширяющий.</p></div>
+        <div class="name-item"><h3>85. Аль-Хафид (الخافض)</h3><p>Унижающий.</p></div>
+        <div class="name-item"><h3>86. Аль-Рафи (الرافع)</h3><p>Возвышающий.</p></div>
+        <div class="name-item"><h3>87. Аль-Муиз (المعز)</h3><p>Укрепляющий.</p></div>
+        <div class="name-item"><h3>88. Аль-Залил (المذل)</h3><p>Уничижающий.</p></div>
+        <div class="name-item"><h3>89. Ас-Сами (السميع)</h3><p>Слышащий.</p></div>
+        <div class="name-item"><h3>90. Аль-Басир (البصير)</h3><p>Видящий.</p></div>
+        <div class="name-item"><h3>91. Аль-Хakam (الحكم)</h3><p>Судья.</p></div>
+        <div class="name-item"><h3>92. Аль-Адль (العادل)</h3><p>Справедливый.</p></div>
+        <div class="name-item"><h3>93. Аль-Латиф (اللطيف)</h3><p>Нежный.</p></div>
+        <div class="name-item"><h3>94. Аль-Хабир (الخبير)</h3><p>Знающий.</p></div>
+        <div class="name-item"><h3>95. Аль-Халим (الحليم)</h3><p>Милосердный.</p></div>
+        <div class="name-item"><h3>96. Аль-Азим (العظيم)</h3><p>Великий.</p></div>
+        <div class="name-item"><h3>97. Аль-Гафур (الغفور)</h3><p>Прощающий.</p></div>
+        <div class="name-item"><h3>98. Аш-Шукур (الشكور)</h3><p>Благодарный.</p></div>
+        <div class="name-item"><h3>99. Аль-Карим (الكريم)</h3><p>Щедрый.</p></div>
+    </div>
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Quran_cover.svg/1024px-Quran_cover.svg.png" alt="Коран" class="quran">
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
-
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
-
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
-
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
-
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
-
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
-
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
-
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
-
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
-
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
-
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
-
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
-
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
-
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
-
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
-
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
-
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
-
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
-
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
-
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
-
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
-
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
-
-   END OF TERMS AND CONDITIONS
-
-   APPENDIX: How to apply the Apache License to your work.
-
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
-
-   Copyright [yyyy] [name of copyright owner]
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+    <div class="footer">
+        <p>Пусть Аллах примет от нас наши благие дела и простит дурные.</p>
+        <p class="dua">اللّهُمَّ تَقَبَّل مِنَّا أَعْمَالَنَا وَاغْفِر لَنَا ذُنُوبَنَا</p>
+    </div>
+</body>
+</html>
